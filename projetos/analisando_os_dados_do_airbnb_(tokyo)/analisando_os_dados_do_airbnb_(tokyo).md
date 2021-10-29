@@ -1,9 +1,12 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/douglascdsantos/douglascdsantos/main/banner%20github%20(1).gif" >
+  <img src="https://github.com/douglascdsantos/data_science/blob/main/projetos/analisando_os_dados_do_airbnb_(tokyo)/banner_analisando_os_dados_do_airbnb_(tokyo).gif.gif?raw=true" >
 </p>
 
 
 Neste projeto fazemos uma analise exploratoria dos dados do Airbnb com a cidade de Tokyo
+
+Pontos de melhoria:
+- 
 
 <h3 align="left">Entre em contato comigo:</h3>
 <p align="left">
