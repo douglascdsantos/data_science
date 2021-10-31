@@ -3,12 +3,20 @@
 </p>
 
 
-Neste projeto fazemos uma analise exploratoria dos dados do Airbnb com a cidade de Tokyo
+*Esse projeto consiste de uma analise exploratoria dos dados do Airbnb com a cidade de Tokyo*
+-
+A proposta faz parte de uma trilha de estudos do curso Data Science na Prática do [Sigmoidal](https://www.instagram.com/sigmoidal.ai/), aqui utilizamos dos dados disponibilizados pelo Airbnb no portal [Inside Airbnb](https://insideairbnb.com/), partimos de perguntas preestabelecidas e discutimos a questões estatísticas dos dados.
+
+Links:
+- [Notebook](https://github.com/douglascdsantos/data_science/blob/main/projetos/analisando_os_dados_do_airbnb_(tokyo)/notebook/Analisando_os_Dados_do_Airbnb_(Tokyo).ipynb)
+- Artigo no Medium
+- Publicação no LinkedIn
 
 Pontos de melhoria:
-- 
+- [ ] Verificar com busca na google sobre bairros mais caros e está de acordo com o encontrado.
 
-<h3 align="left">Entre em contato comigo:</h3>
+ 
+<h3 align="left">Alguma dúvida ou sugestão, pode me encontrar:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/douglascdsantos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="douglascdsantos" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/261500" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="261500" height="30" width="40" /></a>
