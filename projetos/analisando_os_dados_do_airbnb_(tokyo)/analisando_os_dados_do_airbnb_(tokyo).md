@@ -8,12 +8,10 @@
 A proposta faz parte de uma trilha de estudos do curso Data Science na Prática do [Sigmoidal](https://www.instagram.com/sigmoidal.ai/), aqui utilizamos dos dados disponibilizados pelo Airbnb no portal [Inside Airbnb](https://insideairbnb.com/), partimos de perguntas preestabelecidas e discutimos a questões estatísticas dos dados.
 
 Links:
-- [Notebook](https://github.com/douglascdsantos/data_science/blob/main/projetos/analisando_os_dados_do_airbnb_(tokyo)/notebook/Analisando_os_Dados_do_Airbnb_(Tokyo).ipynb)
-- Artigo no Medium
-- Publicação no LinkedIn
+- [Notebook ↣](https://github.com/douglascdsantos/data_science/blob/main/projetos/analisando_os_dados_do_airbnb_(tokyo)/notebook/Analisando_os_Dados_do_Airbnb_(Tokyo).ipynb)
+- Artigo no Medium (em breve)
+- Publicação no LinkedIn (em breve)
 
-Pontos de melhoria:
-- [ ] Verificar com busca na google sobre bairros mais caros e está de acordo com o encontrado.
 
  
 <h3 align="left">Alguma dúvida ou sugestão, pode me encontrar:</h3>
