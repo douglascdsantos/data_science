@@ -5,11 +5,14 @@
 </p>
 
 # Douglas Camargo
-<sub>*Data Science* Student | Graduating in *Production* Engineering at UNESP | *Project Analyst* at Congresse.me</sub>
+<sub>Estudante de Ciência de Dados | Graduando em Engenharia de Produção na UNESP | Analista de Projetos na Congresse.me</sub>
 
-I'm about to graduate in Production Engineering at Universidade Estadual Paulista "Júlio de Mesquita Filho" (UNESP). I am currently interested in Data Science and its applications.
+Com formação técnica na engenharia de produção com viés de materiais possuo forte conhecimento de negócios e ciências isso junto a curiosidade me motivou a buscar pela Ciência de Dados.
 
 **Background in:** Excel, Python (Pandas / Numpy / Matplotlib / Seaborn).
+
+# Projetos:
+- [**Análise dos Dados do Airbnb - Tóquio** ↣](https://github.com/douglascdsantos/data_science/blob/main/projetos/analisando_os_dados_do_airbnb_(tokyo)/analisando_os_dados_do_airbnb_(tokyo).md)
 
 ## **Links:**
 * [LinkedIn](https://www.linkedin.com/in/douglascdsantos)
