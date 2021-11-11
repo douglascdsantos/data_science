@@ -12,7 +12,7 @@ Com formação técnica na engenharia de produção com viés de materiais possu
 **Background in:** Excel, Python (Pandas / Numpy / Matplotlib / Seaborn).
 
 # Projetos:
-- [**Análise dos Dados do Airbnb - Tóquio** ↣](https://github.com/douglascdsantos/data_science/blob/main/projetos/analisando_os_dados_do_airbnb_(tokyo)/analisando_os_dados_do_airbnb_(tokyo).md)
+- [**Análise dos Dados do Airbnb - Tóquio** ↣](https://github.com/douglascdsantos/data_science/tree/main/projetos/analisando_os_dados_do_airbnb_(tokyo))
 
 ## **Links:**
 * [LinkedIn](https://www.linkedin.com/in/douglascdsantos)
