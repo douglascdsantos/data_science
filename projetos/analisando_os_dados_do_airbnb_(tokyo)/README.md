@@ -13,11 +13,9 @@ Links:
 - Publicação no LinkedIn (em breve)
 
 
- 
-<h3 align="left">Alguma dúvida ou sugestão, pode me encontrar:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/douglascdsantos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="douglascdsantos" height="30" width="40" /></a>
-<a href="https://instagram.com/douglascdsantos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="douglascdsantos" height="30" width="40" /></a>
-<a href="https://douglascdsantos.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@douglascdsantos" height="30" width="40" /></a>
-<a href="https://kaggle.com/douglascsantos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="douglascsantos" height="30" width="40" /></a>
-</p>
+## Contatos e redes sociais: 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglascdsantos/)
+[![](https://img.shields.io/badge/Medium-F9AB00?style=for-the-badge&logo=medium&color=525252)](https://douglascdsantos.medium.com/)
+[![](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/douglascsantos)
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](douglas.c.santos@unesp.br)
+
