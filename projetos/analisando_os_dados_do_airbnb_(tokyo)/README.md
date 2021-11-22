@@ -9,8 +9,8 @@ A proposta faz parte de uma trilha de estudos do curso Data Science na Prática 
 
 Links:
 - [Notebook ↣](https://colab.research.google.com/github/douglascdsantos/data_science/blob/main/projetos/analisando_os_dados_do_airbnb_(tokyo)/notebook/Analisando_os_Dados_do_Airbnb_(Tokyo).ipynb)
-- Artigo no Medium (em breve)
-- Publicação no LinkedIn (em breve)
+- [Artigo no Medium ↣](https://douglascdsantos.medium.com/an%C3%A1lise-dos-dados-do-airbnb-t%C3%B3quio-4af84d1805aa)
+- [Publicação no LinkedIn ↣](https://www.linkedin.com/pulse/an%C3%A1lise-dos-dados-do-airbnb-t%C3%B3quio-douglas-camargo/?published=t)
 
 
 ## Contatos e redes sociais: 
